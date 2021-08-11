@@ -16,8 +16,8 @@ They are further divided into high and low entropy, and conditions testing for f
 ### Low entropy; testing force
 
 1. A heavier. Attraction
-
-https://user-images.githubusercontent.com/55804396/129011377-91adf8f8-73b5-4120-bfb5-71f44bfab009.mp4
+2. 
+https://user-images.githubusercontent.com/55804396/129011515-08dcbff1-9090-457f-91fb-11729d877afd.mp4
 
 2. B heavier. Attraction
 
@@ -25,11 +25,11 @@ https://user-images.githubusercontent.com/55804396/129011419-92ca72c1-6a4e-4d76-
 
 3. A heavier. Repulsion
 
-https://user-images.githubusercontent.com/55804396/129011460-121eb1bb-54a8-4a93-b03b-002ce7007de6.mp4
+https://user-images.githubusercontent.com/55804396/129011377-91adf8f8-73b5-4120-bfb5-71f44bfab009.mp4
 
 4. B heavier. Repulsion
 
-https://user-images.githubusercontent.com/55804396/129011515-08dcbff1-9090-457f-91fb-11729d877afd.mp4
+https://user-images.githubusercontent.com/55804396/129011460-121eb1bb-54a8-4a93-b03b-002ce7007de6.mp4
 
 
 ### Low entropy; testing mass
@@ -40,22 +40,22 @@ https://user-images.githubusercontent.com/55804396/129011573-af4bc536-6cee-44ab-
 
 6. B heavier. Attraction
 
-https://user-images.githubusercontent.com/55804396/129011604-17a69950-0d9d-492f-b428-b5123ddca441.mp4
+https://user-images.githubusercontent.com/55804396/129011658-ae51a804-9f32-4f56-bb5f-82bf8282f0da.mp4
 
 7. A heavier. Repulsion
 
-https://user-images.githubusercontent.com/55804396/129011658-ae51a804-9f32-4f56-bb5f-82bf8282f0da.mp4
+https://user-images.githubusercontent.com/55804396/129011669-62220f70-bac7-475d-9a5c-c068940d2fbc.mp4
 
 8. B heavier. Repulsion
 
-https://user-images.githubusercontent.com/55804396/129011669-62220f70-bac7-475d-9a5c-c068940d2fbc.mp4
+https://user-images.githubusercontent.com/55804396/129011604-17a69950-0d9d-492f-b428-b5123ddca441.mp4
 
 
 ### High entropy; testing force
 
 9. A heavier. Attraction
 
-https://user-images.githubusercontent.com/55804396/129011738-bc226ef3-c469-4bd8-894d-0a225504fc91.mp4
+https://user-images.githubusercontent.com/55804396/129011868-c2e81c50-8e95-421b-8a34-d4e4f39f92eb.mp4
 
 10. B heavier. Attraction
 
@@ -63,30 +63,30 @@ https://user-images.githubusercontent.com/55804396/129011780-d4c90066-3d2c-4d0d-
 
 11. A heavier. Repulsion
 
-https://user-images.githubusercontent.com/55804396/129011839-aab538b3-642f-4b93-a31a-9b97c14500e2.mp4
+https://user-images.githubusercontent.com/55804396/129011738-bc226ef3-c469-4bd8-894d-0a225504fc91.mp4
 
 12. B heavier. Repulsion
 
-https://user-images.githubusercontent.com/55804396/129011868-c2e81c50-8e95-421b-8a34-d4e4f39f92eb.mp4
+https://user-images.githubusercontent.com/55804396/129011839-aab538b3-642f-4b93-a31a-9b97c14500e2.mp4
 
 
 ### High entropy; testing mass
 
 13. A heavier. Attraction
-
-https://user-images.githubusercontent.com/55804396/129012052-909669e2-5803-4751-9ae8-e0413a4399ba.mp4
+14. 
+https://user-images.githubusercontent.com/55804396/129012085-e257f532-f479-4b18-ab5e-451ddaf08a29.mp4
 
 14. B heavier. Attraction
 
-https://user-images.githubusercontent.com/55804396/129012085-e257f532-f479-4b18-ab5e-451ddaf08a29.mp4
+https://user-images.githubusercontent.com/55804396/129012120-0941ec2f-afc8-428f-a826-7cfc5c5f3087.mp4
 
 15. A heavier. Repulsion
 
-https://user-images.githubusercontent.com/55804396/129012120-0941ec2f-afc8-428f-a826-7cfc5c5f3087.mp4
+https://user-images.githubusercontent.com/55804396/129012163-bf326bd2-548f-4dac-a981-184be34d7d91.mp4
 
 16. B heavier. Repulsion
 
-https://user-images.githubusercontent.com/55804396/129012163-bf326bd2-548f-4dac-a981-184be34d7d91.mp4
+https://user-images.githubusercontent.com/55804396/129012052-909669e2-5803-4751-9ae8-e0413a4399ba.mp4
 
 
 ## Without cursor
