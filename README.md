@@ -4,9 +4,9 @@ This page was created as a place to hold the video stimuli to show the markers o
 
 It will change to show the rest of the project later in autumn 2021, after discussion with collaborators.
 
-For now here are the 32 video stimuli: 16 with cursor and the same 16 without the cursor, numbered 1:32 for this page.
+For now here are the 32 video stimuli: 16 with cursor and the same 16 without the cursor, numbered 1:32 for this page only.
 
-They are further divided into high and low entropy, and conditions testing for force and mass. True mass and true force named in each heading.
+They are further divided into high and low entropy, and conditions testing for force and mass. True mass and true force named in each single video's heading.
 
 
 # Videos
