@@ -14,70 +14,87 @@ They are further divided into high and low entropy, and conditions testing for f
 
 ### Low entropy; testing force
 
-https://user-images.githubusercontent.com/55804396/129005438-d85cf0f5-9270-4799-8f7f-15f723a421d3.mp4
+
+
+https://user-images.githubusercontent.com/55804396/129011377-91adf8f8-73b5-4120-bfb5-71f44bfab009.mp4
 
 
 
-https://user-images.githubusercontent.com/55804396/129005465-4c217dfa-2fff-4ea1-8af9-51b0770c6c39.mp4
+
+https://user-images.githubusercontent.com/55804396/129011419-92ca72c1-6a4e-4d76-8958-2567f4926eea.mp4
 
 
 
-https://user-images.githubusercontent.com/55804396/129005509-2c7cb8e0-55e9-44e7-b750-587dd24aa94e.mp4
+https://user-images.githubusercontent.com/55804396/129011460-121eb1bb-54a8-4a93-b03b-002ce7007de6.mp4
 
 
 
-https://user-images.githubusercontent.com/55804396/129005543-adf2817c-fe87-4d94-9445-18c8cc1e0cde.mp4
+https://user-images.githubusercontent.com/55804396/129011515-08dcbff1-9090-457f-91fb-11729d877afd.mp4
+
+
+
 
 ### Low entropy; testing mass
 
-https://user-images.githubusercontent.com/55804396/129005656-2a75f5ce-f710-4cbe-9bbe-ad26969e05e2.mp4
+
+
+https://user-images.githubusercontent.com/55804396/129011573-af4bc536-6cee-44ab-ba83-5505819704b3.mp4
 
 
 
-https://user-images.githubusercontent.com/55804396/129005729-84a52058-d444-4334-bb3f-4447b68d8508.mp4
+https://user-images.githubusercontent.com/55804396/129011604-17a69950-0d9d-492f-b428-b5123ddca441.mp4
 
 
 
-https://user-images.githubusercontent.com/55804396/129005768-bbac22c9-a59b-4d09-b4f7-6741d412cd72.mp4
+https://user-images.githubusercontent.com/55804396/129011658-ae51a804-9f32-4f56-bb5f-82bf8282f0da.mp4
 
 
 
-https://user-images.githubusercontent.com/55804396/129005810-54df41b7-7480-4649-b9a7-cfcb8131a345.mp4
+https://user-images.githubusercontent.com/55804396/129011669-62220f70-bac7-475d-9a5c-c068940d2fbc.mp4
+
+
 
 ### High entropy; testing force
 
-https://user-images.githubusercontent.com/55804396/129005899-a648c7f7-a587-4551-bfe6-0095a2d994e8.mp4
+
+
+https://user-images.githubusercontent.com/55804396/129011738-bc226ef3-c469-4bd8-894d-0a225504fc91.mp4
 
 
 
-https://user-images.githubusercontent.com/55804396/129005946-4316add0-9859-4842-8ab3-e971b872079b.mp4
+https://user-images.githubusercontent.com/55804396/129011780-d4c90066-3d2c-4d0d-b5a8-454a67e12093.mp4
 
 
 
-
-https://user-images.githubusercontent.com/55804396/129005233-b6f1d4e8-49de-4865-b3dd-7e558f70dd22.mp4
-
+https://user-images.githubusercontent.com/55804396/129011839-aab538b3-642f-4b93-a31a-9b97c14500e2.mp4
 
 
-https://user-images.githubusercontent.com/55804396/129005286-b53862b1-a8d6-46ad-b41b-d54a8039e4b3.mp4
+
+https://user-images.githubusercontent.com/55804396/129011868-c2e81c50-8e95-421b-8a34-d4e4f39f92eb.mp4
+
+
 
 
 ### High entropy; testing mass
 
-https://user-images.githubusercontent.com/55804396/129005314-21057120-bf46-445f-93d0-796b12e07d06.mp4
 
 
 
-
-https://user-images.githubusercontent.com/55804396/129006893-27175a20-5d32-4de0-8f92-b8d30d5b68d3.mp4
-
-
-
-https://user-images.githubusercontent.com/55804396/129006917-343076b0-6627-41d9-a906-33fc16da1baa.mp4
+https://user-images.githubusercontent.com/55804396/129012052-909669e2-5803-4751-9ae8-e0413a4399ba.mp4
 
 
 
-https://user-images.githubusercontent.com/55804396/129006931-b980e5e2-17fc-417f-a3db-a5a222521f5d.mp4
+https://user-images.githubusercontent.com/55804396/129012085-e257f532-f479-4b18-ab5e-451ddaf08a29.mp4
+
+
+
+https://user-images.githubusercontent.com/55804396/129012120-0941ec2f-afc8-428f-a826-7cfc5c5f3087.mp4
+
+
+
+https://user-images.githubusercontent.com/55804396/129012163-bf326bd2-548f-4dac-a981-184be34d7d91.mp4
+
+
 
 
 
@@ -167,10 +184,6 @@ https://user-images.githubusercontent.com/55804396/129010415-26d5a544-aa04-4980-
 
 
 https://user-images.githubusercontent.com/55804396/129010446-b5979485-1272-4889-815d-87d6789385a0.mp4
-
-
-
-https://user-images.githubusercontent.com/55804396/129010514-bff1349e-100e-4567-a547-0998785926fd.mp4
 
 
 
