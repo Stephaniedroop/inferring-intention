@@ -1,6 +1,6 @@
 # Inferring epistemic intention in intuitive physics microworlds: Overview
 
-This page holds 32 videos. Supplementary materials are in links.
+This page holds 32 videos. See bottom of page for coding instructions for free text responses.
 
 Below are the 32 video stimuli: 16 with cursor trace and the same 16 without the cursor trace, numbered 1:32.
 
