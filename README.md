@@ -1,6 +1,8 @@
-# Inferring epistemic intention in intuitive physics microworlds: Overview
+# Inferring epistemic intentions in simulated physical microworlds
 
-This page holds 32 videos. See bottom of page for coding instructions for free text responses.
+## Overview
+
+This page holds 32 videos.
 
 Below are the 32 video stimuli: 16 with cursor trace and the same 16 without the cursor trace, numbered 1:32.
 
@@ -167,60 +169,9 @@ https://user-images.githubusercontent.com/55804396/129010338-9ef9f065-d13f-40ec-
 https://user-images.githubusercontent.com/55804396/129010446-b5979485-1272-4889-815d-87d6789385a0.mp4
 
 
+# Free text analysis
 
-# Instructions for coding
-
-Open the excel file, "for coding".
-You will be rating each item in column B for if it contains various things. Put your rating ('1') in columns C:E, as follows:
-
-Column C: If the person in B mentions a physical behavioural strategy, an action that you would probably be able to approximately copy from their description.
-
-Examples:
-YES: 
-- He gently moved a grey ball close to the others 
-- He threw the balls at each other
-- Knocking them around
-- He let the balls sink to the bottom
-- Used A to push B
-
-NO: 
-- He tested the balls
-- The balls kept getting closer
-- The balls attracted each other (because this describes the ball's properties, not the person's behaviour)
-
-Column D: 
-If B mentions the end goal of what the person was trying to find out.
-
-Examples:
-YES: 
-- He was testing the force
-- He was seeing whether they attract or repel
-- He was seeing which was heavier
-- Clear test for force
-- Clear test for mass
-
-NO:
-- It wasn't force so it must have been mass (and other 'logic' type of answer that result from the binary forced choice design)
-
-Column E:
-If B mentions a more specific goal, such as a distinctive action to isolate one property (e.g. attract v repel), or tell what movement or behaviour they were testing.
-
-YES:
-- He did xx to see if they repel
-- To see if they would attract without getting bashed about
-
-NO:
-- He was seeing whether they attract or repel
-- He moved the balls to see how they react
-
-
-The following types of answer get NO rating in any column:
-- A was heavier
-- The balls repelled
-- The grey balls were close to the bottom
-- No clue
-
-
+See separate file 'Instructions for coders' for details of how we coded our participants' free text responses.
 
 # Ideal observer analysis
 
