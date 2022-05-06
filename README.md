@@ -14,7 +14,7 @@ See separate file 'Instructions for coders' for details of how we coded our part
 
 # Ideal observer analysis
 
-This folder contains code to recreate the simulated trajectories used to compute entropies `ideal_obs_e1.R` and code to extract the entropy measures from these simulations `extract_measures.R`. The `\data` folder should contain all the required data files. Note that the simulations use javascript run within a V8 engine within R. This will require installing vairous libraries listed at the top of `ideal_obs_e1.R`.
+The folder ideal_observer_files contains code to recreate the simulated trajectories used to compute entropies `ideal_obs_e1.R` and code to extract the entropy measures from these simulations `extract_measures.R`. The `\data` folder should contain all the required data files. Note that the simulations use javascript run within a V8 engine within R. This will require installing various libraries listed at the top of `ideal_obs_e1.R`.
 
 
 
