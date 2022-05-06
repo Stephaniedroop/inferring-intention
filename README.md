@@ -8,6 +8,15 @@ Below are the 32 video stimuli: 16 with cursor trace and the same 16 without the
 
 They are further divided into conditions: tests for epistemic goal {force, mass}, information entropy {high, low}. The 'ground truth' of the environment for mass {A heavier, B heavier} and force {Attract, Repel} is named in each video's heading.
 
+# Free text analysis
+
+See separate file 'Instructions for coders' for details of how we coded our participants' free text responses.
+
+# Ideal observer analysis
+
+This folder contains code to recreate the simulated trajectories used to compute entropies `ideal_obs_e1.R` and code to extract the entropy measures from these simulations `extract_measures.R`. The `\data` folder should contain all the required data files. Note that the simulations use javascript run within a V8 engine within R. This will require installing vairous libraries listed at the top of `ideal_obs_e1.R`.
+
+
 
 # Videos
 
@@ -169,10 +178,3 @@ https://user-images.githubusercontent.com/55804396/129010338-9ef9f065-d13f-40ec-
 https://user-images.githubusercontent.com/55804396/129010446-b5979485-1272-4889-815d-87d6789385a0.mp4
 
 
-# Free text analysis
-
-See separate file 'Instructions for coders' for details of how we coded our participants' free text responses.
-
-# Ideal observer analysis
-
-This folder contains code to recreate the simulated trajectories used to compute entropies `ideal_obs_e1.R` and code to extract the entropy measures from these simulations `extract_measures.R`. The `\data` folder should contain all the required data files. Note that the simulations use javascript run within a V8 engine within R. This will require installing vairous libraries listed at the top of `ideal_obs_e1.R`.
